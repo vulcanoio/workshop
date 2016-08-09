@@ -72,7 +72,7 @@ Set up access point
 1. Flash firmware: https://wiki.openwrt.org/toh/tp-link/tl-mr3020#installation
    1. NB: You will need an ethernet connection as the firmware will deactivate the radios by default!  It will start a DHCP server on the ethernet port when it boots.
 1. Set up password: root/resin
-2. Apply config: https://drive.google.com/open?id=0B6cDFLPz_SL-c2FaeWZWX1hTenc
+2. Apply config: (stored under 'infrastructure')
    1. This will activate the radios; you should now share your internet connection over the ethernet port
 
 
