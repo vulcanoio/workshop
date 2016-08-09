@@ -62,7 +62,7 @@ Using the workshop
 * Resin for workshops information
 
 
-[Appendix 1]: Setup
+Appendix 1: Setup
 -------------------
 
 This describes the initial setup process and should only be necessary for new equipment.  Normal use of the workshop should not require additional setup.
