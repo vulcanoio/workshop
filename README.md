@@ -1,13 +1,11 @@
 Resin Workshop Infrastructure
 =============================
 
-________________
 
 Purpose
 -------
 To enable workshops that allow people with a moderately technical background to understand and use Resin successfully within a 3-8 hour window.
 
-________________
 
 Quick information
 -----------------
@@ -20,8 +18,6 @@ Quick information
 | Router IP address       | 192.168.5.1                                    |
 | Router username         | root                                           |
 | Router password         | resin                                          |
-
-________________
 
 
 Workshop Contents
@@ -39,8 +35,6 @@ Workshop Contents
 | ~100  | Breadboard wires         | Generic           | Assorted colors and lengths                                          | [Amazon](https://www.amazon.com/gp/product/B005TZJ0AM) |
 | ~300  | LEDs                     | Generic           | Assorted colors and voltages                                         | [Amazon](https://www.amazon.com/gp/product/B00UWBJM0Q) |
 
-
-________________
 
 
 Prerequisites
@@ -62,7 +56,7 @@ Prerequisites
 
 Using the workshop
 ------------------
-** TODO: **
+**TODO:**
 * Circuit diagrams
 * GPIO information
 * Resin for workshops information
